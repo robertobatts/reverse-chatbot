@@ -10,3 +10,6 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+tutorials.txt
+first-chatbot-dialogflow-auth.json
